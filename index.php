@@ -43,7 +43,7 @@ li {list-style-type:none}
 
  <body>
 
-<!-- Need to change $dirname to your own folder -->
+<!-- Need to change $dirname and <a> tag link to your own folder -->
 <?php 
 
 date_default_timezone_set('Australia/Brisbane'); 
