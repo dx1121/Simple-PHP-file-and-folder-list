@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
  <head>
-  <title>Share Files and Folders</title>
+  <title>Share Files and Folders with date</title>
  </head>
 
 <style type="text/css">
@@ -43,7 +43,7 @@ li {list-style-type:none}
 
  <body>
 
-
+<!-- Need to change $dirname to your own folder -->
 <?php 
 
 date_default_timezone_set('Australia/Brisbane'); 
